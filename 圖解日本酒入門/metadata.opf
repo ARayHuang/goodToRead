@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62e2db09-238e-4046-8917-429dafed634e</dc:identifier>
+        <dc:title>圖解日本酒入門</dc:title>
+        <dc:creator opf:file-as="山本洋子" opf:role="aut">山本洋子</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>楓書坊文化</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;山本洋子&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-03-15T07:30:52.944527+00:00"/>
+        <meta name="calibre:title_sort" content="圖解日本酒入門"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
