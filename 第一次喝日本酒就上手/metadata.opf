@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aa0883b-83bc-4a78-83dc-553a8d2c5b6d</dc:identifier>
+        <dc:title>第一次喝日本酒就上手：漫畫圖解一看就懂！</dc:title>
+        <dc:creator opf:file-as="葉石香織(Kaori Haishi)" opf:role="aut">葉石香織(Kaori Haishi)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-09T00:00:00+00:00</dc:date>
+        <dc:description>零門檻！日本酒入門書
+透過漫畫和圖解，讓你以最輕鬆的方式走入日本酒的世界。
+告別紙上談兵的理論與知識，以最生活化的日本酒運用，
+帶你喝出日本酒的門道，連門外漢都能輕鬆上手。</dc:description>
+        <dc:publisher>城邦出版集團 麥浩斯</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>生活風格</dc:subject>
+        <dc:subject>飲食</dc:subject>
+        <dc:subject>美食指南</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;葉石香織(Kaori Haishi)&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-03-15T05:58:45.364050+00:00"/>
+        <meta name="calibre:title_sort" content="第一次喝日本酒就上手：漫畫圖解一看就懂！"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

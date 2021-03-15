@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaffdd3b-88d6-4634-913b-cb4de13a78e6</dc:identifier>
+        <dc:title>日本酒的趣味研究社：酒香四溢雜學65講</dc:title>
+        <dc:creator opf:file-as="上杉孝久" opf:role="aut">上杉孝久</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-04T00:00:00+00:00</dc:date>
+        <dc:description>最早的日本酒是從口中製造出來的？
+有種黴菌竟然可以造酒？
+喝酒，竟是要拉進人類與神明之間的距離？
+歡迎加入日本酒的趣味研究社，
+65個趣味雜學，以酒會史，一同解開日本酒的奧祕。
+
+淺顯易懂的日本酒非常識，生動有趣的日本酒故事，
+日本酒全知識，不懂日本酒的人也能完全讀懂日本酒！
+原來日本酒文化都能在日本各朝代的歷史中窺知一二！
+
+「國家的歷史越長，好喝的酒就越多。」——上杉孝久
+
+從最早在繩文時代，酒是經由口中製造而成的，在彌生時代用黴菌造酒，途中也經歷了味醂是高級酒的江戶時代，一直到誕生酒中之王的昭和時代……。由10個日本時代的演變，揭開每個時代的日本酒特色、演變、釀造過程、文化、時代背景、飲酒愛好等，甚至透露知名歷史人物的喝酒的偏好與習慣，層層透析日本酒如何影響了日本人的味蕾及生活習慣，再藉著趣味性十足的插畫呈現，讓你快速進入日本酒的世界，揭開其中的奧祕，發掘更多日本酒與日本史的驚人新發現！
+
+歡迎你加入日本酒的趣味研究社！！
+
+【本書特色】
+◎65個趣味雜學，探究日本酒的時代與口味演變。
+◎以酒會史，揭開日本酒奧祕的同時，再次回顧日本史，發掘酒與歷史的新發現！</dc:description>
+        <dc:publisher>城邦出版集團 麥浩斯</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>美食文化</dc:subject>
+        <dc:subject>飲食</dc:subject>
+        <dc:subject>食譜</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;上杉孝久&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-03-15T07:30:02.972953+00:00"/>
+        <meta name="calibre:title_sort" content="日本酒的趣味研究社：酒香四溢雜學65講"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
